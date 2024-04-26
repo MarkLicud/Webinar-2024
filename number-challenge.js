@@ -22,7 +22,7 @@ function averageOfTwoNumbers(num1, num2) {
 }
 
 
-console.log(sumThreeNumbers(1, 2, 1)); 
-console.log(differenceOfTwoNumbers(6, 4)); 
-console.log(productOfTwoNumbers(2, 4)); 
-console.log(averageOfTwoNumbers(6, 4)); 
+console.log(sumThreeNumbers(1, 3, 5)); 
+console.log(differenceOfTwoNumbers(5, 4)); 
+console.log(productOfTwoNumbers(5, 4)); 
+console.log(averageOfTwoNumbers(5, 4)); 
